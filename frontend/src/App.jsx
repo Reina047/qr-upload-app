@@ -1,6 +1,5 @@
 import React from 'react';
 import UploadPage from './components/UploadPage';
-import './App.css';
 
 function App() {
     return (
