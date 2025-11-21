@@ -1,4 +1,4 @@
-echo '[build]
+echo = '[build]'
 base = "frontend"
 command = "npm run build"
 publish = "dist"
